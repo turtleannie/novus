@@ -1,10 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="0 0 250 400">
   <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg>
-<svg
-  data-animation-duration="240s"
-  viewBox="-50 -50 100 100"
->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="0 0 250 400">
   <desc>
     <p>See this animation in action here: <a href="https://andrew.wang-hoyer.com/experiments/svg-animations/30/e" target="_blank" rel="noopener">https://andrew.wang-hoyer.com/experiments/svg-animations/30/e</a>.</p>
     <p>Generator source code : <a href="https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/30/e.js" target="_blank" rel="noopener">https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/30/e.js</a>.</p>
